@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://echoJava.github.io/"/>
-  <updated>2018-04-13T01:53:49.024Z</updated>
+  <updated>2018-04-24T03:22:46.899Z</updated>
   <id>http://echoJava.github.io/</id>
   
   <author>
@@ -21,15 +21,16 @@
     <link href="http://echoJava.github.io/2018/04/13/my-new-post/"/>
     <id>http://echoJava.github.io/2018/04/13/my-new-post/</id>
     <published>2018-04-13T01:24:09.000Z</published>
-    <updated>2018-04-13T01:53:49.024Z</updated>
+    <updated>2018-04-24T03:22:46.899Z</updated>
     
-    <content type="html"><![CDATA[<p>Spring AOP</p>]]></content>
+    <content type="html"><![CDATA[<p>Spring AOP</p><p>comments: true </p>]]></content>
     
     <summary type="html">
     
       
       
         &lt;p&gt;Spring AOP&lt;/p&gt;
+&lt;p&gt;comments: true &lt;/p&gt;
 
       
     
