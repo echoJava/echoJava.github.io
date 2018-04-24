@@ -7,8 +7,16 @@
     </url>
 
     <url>
+        <loc>http://echoJava.github.io/2018/04/12/hello-world/</loc>
+        <lastmod>2018-04-24T04:47:48.244Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://echoJava.github.io/2018/04/13/my-new-post/</loc>
-        <lastmod>2018-04-24T03:22:46.899Z</lastmod>
+        <lastmod>2018-04-24T04:45:30.032Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -17,14 +25,6 @@
             <image:loc>http://img4.imgtn.bdimg.com/it/u=1972873509,2904368741&fm=27&gp=0.jpg</image:loc>
 
         </image:image>
-
-    </url>
-
-    <url>
-        <loc>http://echoJava.github.io/2018/04/12/hello-world/</loc>
-        <lastmod>2018-04-12T04:41:01.418Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
 
     </url>
 
